@@ -3,7 +3,7 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-## VS files
+## my removes
 .vs/
 .vscode/
 *.vcxproj
@@ -16,6 +16,8 @@
 *.userosscache
 *.vspscc
 *.vssscc
+*vcxproj.filters
+*.exe
 
 # User-specific files
 *.rsuser
